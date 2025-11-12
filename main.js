@@ -146,3 +146,11 @@ console.log(numb1 * numb2);
 console.log(numb1 / numb2);
 
 console.log(fraseop);
+
+
+
+let x = 2
+let y = "2"
+let z = 1
+
+console.log( x != y)
